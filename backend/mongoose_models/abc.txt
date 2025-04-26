@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                
+
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                24
+
+                                                Indexing , Transaction , Replication ------ mongodb
+                                                
+                                                JWT , Refresh Token , Opaque Token
+                                                
+                                                OAuth 2.0 WITH GOOGLE / FACEBOOK / GITHUB
+                                                
+                                                Password hashing & salting (bcrypt)
+                                                
+                                                Security Practices : SQL inj , XSS , CSRF , CORS
+                                                
+                                                Helmet.js 
+                                                
+                                                Input Validation ( Joi / Zod )
+                                                
+                                                Throttling
+                                                
+                                                Debouncing
+                                                
+                                                Rate limiting (Redis / express)
+                                                
+                                                WebSockets Basics
+                                                
+                                                Caching
+                                                
+                                                File Uploads ( Multer / AWS S3 )
+
+                                                Prefix Sum , Sliding Window , Two Pointers
+
+                                                Sorting , Duplicates
+
+                                                LL , Reverse LL , Detect Cycle , Merge Two LL
+
+                                                Find Middle , Remove Nth ele
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                2
